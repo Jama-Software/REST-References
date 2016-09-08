@@ -5,6 +5,9 @@ using System.Net;
 //feat1 02
 //feat3 01
 //feat3 02
+//feat2 01
+//feat2 02
+//feat1 03
 
 public class BasicAuth
 {
