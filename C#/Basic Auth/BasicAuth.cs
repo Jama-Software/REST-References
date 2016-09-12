@@ -9,6 +9,7 @@ using System.Net;
 //feat2 02
 //feat1 03
 //feat4 01
+//feat6 01
 
 public class BasicAuth
 {
